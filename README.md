@@ -1,4 +1,4 @@
-# circuit-syntesis
+# black-box-circuit-syntesis
 # SynecticsLab  
 ## Automated Synthesis of Equivalent Electrical Circuits for Black-Box Objects
 
