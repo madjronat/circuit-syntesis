@@ -89,4 +89,4 @@ The long-term direction includes applications such as:
 ## Author
 
 **Mulkamanov Erik**  
-GitHub: **@madjronat**
+GitHub/telergam: **@madjronat**
